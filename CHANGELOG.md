@@ -4,6 +4,10 @@ All notable changes to Shopify Scripts will be documentated in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## 2016-09-27
+### Fixed
+- Increase the character limit from 8192 characters to 16384
+
 ## 2016-08-30
 ### Fixed
 - Fix money formatting when using custom html format
