@@ -1,9 +1,9 @@
-# ExcludeGiftCartSelector
+# ExcludeGiftCardSelector
 # =============
 #
-# The `ExcludeGiftCartSelector` removes gift cards since they are ofter excluded
+# The `ExcludeGiftCardSelector` removes gift cards since they are ofter excluded
 # from promotions.
-class ExcludeGiftCartSelector
+class ExcludeGiftCardSelector
   # Returns whether a line item matches this selector or not.
   #
   # Arguments
