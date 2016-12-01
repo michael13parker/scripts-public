@@ -4,6 +4,10 @@ All notable changes to Shopify Scripts will be documentated in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## 2016-11-11
+### Added
+- New interface of the script editor
+
 ## 2016-09-27
 ### Fixed
 - Increase the character limit from 8192 characters to 16384
